@@ -24,3 +24,6 @@
 
 # Editorconfig
 !.editorconfig
+
+# Installer
+!install.sh
